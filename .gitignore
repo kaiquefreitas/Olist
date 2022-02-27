@@ -1,0 +1,5 @@
+*.db
+*.pbix
+olist_geolocation_dataset.csv
+upload_data.py
+*.ipynb_checkpoints
